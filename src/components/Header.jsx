@@ -19,13 +19,13 @@ const Header = () => {
             </div>
 
             <div className="header-container_buttons">
-            <button type="button" class="btn btn-primary">
-                Get Quote Now
-            </button>
+                <button type="button" class="btn btn-primary">
+                    Get Quote Now
+                </button>
 
-            <button type="button" class="btn btn-outline-primary">
-                Learn More
-            </button>
+                <button type="button" class="btn btn-outline-primary">
+                    Learn More
+                </button>
 
             </div>
         </div>
